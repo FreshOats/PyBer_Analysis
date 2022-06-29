@@ -1,5 +1,5 @@
 # PyBer Rideshare Analysis
-*** Evaluating fares for the rideshare company PyBer in different city sizes ***
+**Evaluating fares for the rideshare company PyBer in different city sizes**
 #### by Justin R. Papreck
 ---
 
